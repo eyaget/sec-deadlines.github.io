@@ -1,5 +1,15 @@
 # Security and Privacy  
 
+- name: ACM WPES
+  description: 24th ACM Workshop on Privacy in the Electronic Society
+  year: 2025
+  link: http://jianying.space/WPES2025/
+  deadline: ["2025-07-07 23:59"]  # must be a list
+  date: October 13
+  place: Taipei, Taiwan
+  tags: [PRIV, SEC]
+  comment: Co-located with ACM CCS 2025
+  
 - name: S&P (Oakland)
   year: 2026
   date: May 18-21
